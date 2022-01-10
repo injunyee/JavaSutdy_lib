@@ -11,3 +11,4 @@ public class Test1Main
 		System.out.print(obs1.ob);
 	}
 }
+asdfasdfasd
