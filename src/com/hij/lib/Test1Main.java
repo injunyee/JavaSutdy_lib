@@ -34,7 +34,7 @@ public class Test1Main
 		
 		Firecar fcar = new Firecar("fcar");
 		System.out.printf("%s\n", fcar);
-		System.out.printf("%S\n", fcar.toString(fcar));
+		System.out.printf("%s\n", fcar.toString(fcar));
 		
 	}//main args end
 }
