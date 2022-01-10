@@ -1,9 +1,14 @@
 package com.hij.lib;
 
-public class Test1
+class ObjectStudy1
 {
-	public static void main(String args[])
+	ObjectStudy1() {}
+	
+	public void study1()
 	{
-		System.out.printf("hellow");
+		System.out.printf("hellow\n");
+		
 	}
+	
+	Object ob = new Object();
 }
